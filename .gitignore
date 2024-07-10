@@ -1,0 +1,12 @@
+*node_modules/*
+node_modules
+npm-debug.log
+node_modules
+npm-debug.log
+build
+dist
+coverage
+.cache
+.idea
+*.log
+*.DS_Store
